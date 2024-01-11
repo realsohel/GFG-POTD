@@ -7,7 +7,7 @@ using namespace std;
 int longSubarrWthSumDivByK(int arr[], int n, int k)
 {
     // Complete the function
-     int mx = 0;
+    int mx = 0;
     int i = 0, j = 0, sum = 0;
     map<int, int> mp;
     while (j < n)
