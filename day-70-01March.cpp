@@ -7,9 +7,10 @@ using namespace std;
 
 // Note: The output will be 1 if the index returned by your function is correct; otherwise, it will be 0.
 
+// KHUDSEE
 int peakElement(int arr[], int n)
 {
-    // Your code here
+
     int l=0,h=n-1;
     while(l<h){
         int mid = (l+h)/2;
