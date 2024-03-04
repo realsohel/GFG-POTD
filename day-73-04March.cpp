@@ -15,7 +15,7 @@ void swapElements(int arr[], int n){
         arr[i] = a;
         
     }
-    
+
 }
 
 int main(){
